@@ -48,11 +48,8 @@ plt.show()
 ```
 
 ## Output:
-1,2,3,4,5
-2,4,6,8,10
-2.0 0.0
-[ 2.  4.  6.  8. 10.]
-<img width="673" height="512" alt="image" src="https://github.com/user-attachments/assets/e3c6612e-9271-4a66-b19f-59a96f979da2" />
+<img width="673" height="512" alt="image" src="https://github.com/user-attachments/assets/78ea572e-2d4a-47d4-981a-d8b777a975af" />
+
 
 
 
